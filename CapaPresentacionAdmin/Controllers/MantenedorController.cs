@@ -224,6 +224,7 @@ namespace CapaPresentacionAdmin.Controllers
             },
             JsonRequestBehavior.AllowGet
             );
+
         }
 
         [HttpPost]
