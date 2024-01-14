@@ -1,0 +1,9 @@
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\bin\Debug\CapaEntidad.dll
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\bin\Debug\CapaEntidad.pdb
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\obj\Debug\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\obj\Debug\CapaDatos.csproj.CopyComplete
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\jorge\Desktop\Proyecto Zapatillas\ZapatillasMVC\CapaDatos\obj\Debug\CapaDatos.pdb
