@@ -53,7 +53,7 @@ namespace CapaDatos
                                 Precio = Convert.ToDecimal(dr["Precio"],  new CultureInfo("es-PE")),
                                 Stock = Convert.ToInt32(dr["Stock"]),
                                 Rutaimagen = dr["RutaImagen"].ToString(),
-                                NombreImagen = dr["RutaImagen"].ToString(),
+                                NombreImagen = dr["NombreImagen"].ToString(),
                                 Activo = Convert.ToBoolean(dr["Activo"])
                             });
                         }
@@ -149,7 +149,7 @@ namespace CapaDatos
                 using (SqlConnection oconexion = new SqlConnection(Conexion.cn))
                 {
                     // Debes proporcionar valores válidos para @rutaimagen y @nombreimagen
-                    string query = "UPDATE Producto SET RutaImagen = @rutaimagen, NombreImagen = @nombreimagen WHERE IdProducto = @idproducto";
+                    string query = "UPDATE Producto SET Rutaimagen = @rutaimagen, NombreImagen = @nombreimagen WHERE IdProducto = @idproducto";
 
                     SqlCommand cmd = new SqlCommand(query, oconexion);
                     cmd.Parameters.AddWithValue("@rutaimagen", obj.Rutaimagen); // Asegúrate de tener valores en obj.Rutaimagen y obj.NombreImagen
